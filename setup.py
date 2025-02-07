@@ -10,7 +10,10 @@ setup(
     description='A Python library for Ethiopian Multiplication.',
     long_description=open('README.md').read(),                          # Optional: If you have a README.md
     long_description_content_type='text/markdown',                      # README.md with markdown
-    url='https://github.com/Danigy/ethiomultlib.git',                       # Optional: Project URL
+    url="https://github.com/yourusername/ethiomultlib",  # <-- ACTUAL URL HERE
+    project_urls={
+        "Source": "https://github.com/yourusername/ethiomultlib", 
+            },
     license='MIT',                                                      # Choose a license (e.g., MIT, GPL, Apache 2.0)
     release_date='February 7, 2025',                                    # First version of the library released date.
     classifiers=[
