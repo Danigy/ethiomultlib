@@ -30,7 +30,7 @@ print(f"Result of Ethiopian Multiplication: {result}") # Output: 540
 The method involves halving the first number and doubling the second number in parallel columns. Rows where the first number is odd contribute the corresponding second number to the final sum. This sum represents the product. It's a fascinating demonstration of binary arithmetic principles in a pre-modern algorithmic form.
 
 ## Author
-Daniel Gessese Amdework, Software Engineer, Data Scientist, and ML/DL Enthusiast. ([LinkedIn](https://linkedin.com/in/daniel-gessese-3b744543))
+Daniel Gessese Amdework, Software Engineer, Data Scientist, and ML/DL Enthusiast. ([LinkedIn](https://linkedin.com/in/daniel-gessese-3b744543)), ([GitHub]( https://github.com/Danigy/ethiomultlib))
 
 ## License
 
