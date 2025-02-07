@@ -2,8 +2,8 @@
 
 ### (`ethiomultlib`)
 
-	[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-	[![PyPI version](https://badge.fury.io/py/ethiopian-arithmetic-lib.svg)](https://badge.fury.io/py/ethiopian-arithmetic-lib)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://badge.fury.io/py/ethiopian-arithmetic-lib.svg)](https://badge.fury.io/py/ethiopian-arithmetic-lib)
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Danigy&color=00a0a0&style=plastic"/>
