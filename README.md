@@ -2,11 +2,10 @@
 
 ### (`ethiomultlib`)
 
-
-
-<p align="center">
 	[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 	[![PyPI version](https://badge.fury.io/py/ethiopian-arithmetic-lib.svg)](https://badge.fury.io/py/ethiopian-arithmetic-lib)
+
+<p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Danigy&color=00a0a0&style=plastic"/>
 	<img src="https://visitor-badge.glitch.me/badge?page_id=Danigy/blob/master/"/>
 	<img src="https://img.shields.io/github/followers/Danigy?style=social"/>
