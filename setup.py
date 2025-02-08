@@ -12,7 +12,7 @@ setup(
     long_description_content_type='text/markdown',                      # README.md with markdown
     url="https://github.com/Danigy/ethiomultlib",                       # <-- ACTUAL URL HERE
     project_urls={
-        "Source": "https://github.com/Danigy/ethiomultlib", 
+        "Source":"https://github.com/Danigy/ethiomultlib", 
             },
     license='MIT',                                                      # MIT license (GPL, Apache 2.0)
     release_date='February 7, 2025',                                    # First version of the library released date.
